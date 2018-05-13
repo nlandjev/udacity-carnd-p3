@@ -171,7 +171,7 @@ _________________________________________________________________
 
 #### 3. Creation of the Training Set & Training Process
 
-I started off collecting custom driving in the middle of the lane but found that the provided sample data worked better so I used that instead. 
+I started off collecting custom data driving in the middle of the lane but found that the provided sample data worked better so I used that instead. 
 
 Additionallу I added a few runs of driving on the bridge as that's where the car was failing. Here is an example image:
 
@@ -182,3 +182,4 @@ At this point I found out that no further changes to the model architecture or h
 ![Driving in the opposite direction 1][example1]
 ![Driving in the opposite direction 2][example2]
 
+Training on this data for 15 epochs turned out to be sufficient to complete multiple laps of the track as shown in the output video.
