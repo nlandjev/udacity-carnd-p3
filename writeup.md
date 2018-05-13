@@ -16,9 +16,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[example0]: ./examples/example0-bridge.png "Driving on the bridge"
-[example1]: ./examples/example1-opposite-direction.png "Driving in the opposite direction 1"
-[example2]: ./examples/example2-opposite-direction.png "Driving in the opposite direction 2"
+[example0]: examples/example0-bridge.jpg "Driving on the bridge"
+[example1]: examples/example1-opposite-direction.jpg "Driving in the opposite direction 1"
+[example2]: examples/example2-opposite-direction.jpg "Driving in the opposite direction 2"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
